@@ -119,11 +119,11 @@ title: Climate Change, Food System and Planetary Health
 <h3 style="background-color:white; color:Red; text-align: center;"> Lectures would be from 9:00 - 17:00 (South Africa Time) on each Day </h3> <br>
  
 
-<h2 style="background-color:white; color:blue; text-align: center;"> Dates: Monday 10th July- Friday 21st July 2023</h2> <br>
+<h2 style="background-color:white; color:blue; text-align: center;"> Dates: Monday 22nd July- Friday 26th July 2024</h2> <br>
 
-  <h4> Venue:  <a href= " https://www.premierhotels.co.za/hotels/kwazulu-natal/splendid-inn-umhlanga/rooms/" > <span style="text-align:center">Premier Splendid Inn Hotel, Umhlanga </span> </a>, South Africa.</h4>
+  #<h4> Venue:  <a href= " https://www.premierhotels.co.za/hotels/kwazulu-natal/splendid-inn-umhlanga/rooms/" > <span style="text-align:center">Premier Splendid Inn Hotel, Umhlanga </span> </a>, South Africa.</h4>
 
-<h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://harvard.zoom.us/meeting/register/tJUkce6tqjsvHNydfIXyERdbS2CJvk5ppazy" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4>
+#<h4 style="background-color:white; color:black; text-align: left;"> Please use the following link: <a href="https://harvard.zoom.us/meeting/register/tJUkce6tqjsvHNydfIXyERdbS2CJvk5ppazy" target="_blank"><span style="text-align:center">ZOOM LINK</span></a>. </h4>
 
 
 
