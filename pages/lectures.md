@@ -61,7 +61,7 @@ Below is the list of links to lecture notes, materials, and additional reference
 
 <h4> Day 2:</h4>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Diet optimization.pdf" download> Linear Optimization of Diets--Dr. G. Kallah-Dagadu</a> <br>
+<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Diet optimization.pdf" download> Linear Optimization of Diets--Dr. G. Kallah-Dagadu</a> <br>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Overview_PotentialDietQualityIndicators_14.12.2022_revised.docx" download> Overview Potential Diet Quality Indicators--Prof. Ina Danquah</a> <br>
 
@@ -77,15 +77,16 @@ Below is the list of links to lecture notes, materials, and additional reference
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/vanDoreen_FrontNutr_2018.pdf" download> Literature-Prof. Ina Danquah</a> <br>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Willett_Lancet_2019.pdf" download> Literature-Prof. Ina Danquah</a> <br>
+<a href="https://ccfscourseukzn.github.io/PDFLectures/Willett_Lancet_2019.pdf" download> Literature-Prof. Ina Danquah</a> <br> -->
 
 
-<h4> Days 3 and 4:</h4>
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 1 Manual.pdf" download> Practical 1 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
+<h4> Day 3:</h4>
+<!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 1 Manual.pdf" download> Practical 1 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 2 Manual.pdf" download> Practical 2 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
-<a href="https://drive.google.com/drive/folders/1FyWbL_DrdCI1pgmGdXSOS9NQpuExtABE" download> Practical Materials-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
+<a href="https://drive.google.com/drive/folders/1FyWbL_DrdCI1pgmGdXSOS9NQpuExtABE" download> Practical Materials-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>-->
+<h4> Day 4:</h4>
 <h4> Day 5:</h4>
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Supervised Classification (1).docx" download> Practical 3 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
+<!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Supervised Classification (1).docx" download> Practical 3 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br> -->
 
 
