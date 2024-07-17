@@ -39,22 +39,22 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <br>
 <br>
 <br>
-<br>
-<h4 style="color:DodgerBlue;"> Dr. Bernd Franke, Facilitator </h4>
+<be>
+<!-- <h4 style="color:DodgerBlue;"> Dr. Bernd Franke, Facilitator </h4>
 <p align="justify"> <img src="../figures/Franke.png" alt="Franke" style="float:left; width:120px; height:120px;padding: 10px;"> 
   <span style="vertical-align:bottom"> Scientific Director Institute for Energy and Environmental Research (IFEU). </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/bernd-franke"> <span style="text-align:center"> Dr. Franke's website </span> </a> for more information about her work. </p> <br>
 <br>
 <br>
 <br>
-<br>
+<be> -->
 
 
-<h4 style="color:DodgerBlue;"> Dr. Fred Hattermann, Facilitator </h4> 
+<!--<h4 style="color:DodgerBlue;"> Dr. Fred Hattermann, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Fred.png" alt="Fred" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> SDeputy Head, Research Department (Climate Resilience) Potsdam Institute for Climate Impact Research. </span> <br> Visit <a href="https://www.pik-potsdam.de/members/fred"><span style="text-align:center">Dr. Hattermann's website</span></a> for more information about her work. </p> <br>
 <br>
 <br>
 <br>
-<be>
+<be> -->
 
 <!--<h4 style="color:DodgerBlue;"> Dr. Irmgard Jordan, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Jordan.jpg" alt="Jordan" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Human Nutrition and Home Economic Scientist – CIM Expert Alliance Bioversity & CIAT. </span> <br> Visit <a href="https://alliancebioversityciat.org/who-we-are/irmgard-jordan"><span style="text-align:center">Dr. Jordan's website</span></a> for more information about her work. </p> <br>
