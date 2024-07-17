@@ -3,7 +3,7 @@ layout: page
 title: Lecture Materials
 ---
 
-Below is the list of links to lecture notes, materials, and additional reference material. 
+Below is the list of links to lecture notes, materials, and additional reference materials. 
 
 
 <h3> Week 1 - Materials:</h3>
