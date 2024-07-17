@@ -54,8 +54,9 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <br>
 <br>
 <br>
-<br>
-<h4 style="color:DodgerBlue;"> Dr. Irmgard Jordan, Facilitator </h4> 
+<be>
+
+<!--<h4 style="color:DodgerBlue;"> Dr. Irmgard Jordan, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Jordan.jpg" alt="Jordan" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Human Nutrition and Home Economic Scientist – CIM Expert Alliance Bioversity & CIAT. </span> <br> Visit <a href="https://alliancebioversityciat.org/who-we-are/irmgard-jordan"><span style="text-align:center">Dr. Jordan's website</span></a> for more information about her work. </p> <br>
 <br>
 <br>
@@ -67,16 +68,16 @@ Research Associate,<br> Department of Nutrition, Harvard T.H. Chan School of Pub
 <br>
 <br>
 <br>
-<br>
+<br> -->
 
 <h4 style="color:DodgerBlue;"> Dr. Gabriel Kallah-Dagadu, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Gabby.png" alt="Gabriel" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> WASHU Takwimu Postdoctoral Fellow,<br> University of KwaZulu-Natal. </span> </p> <br>
 <br>
 <br>
 <br>
-<br>
+<be>
 
-<h4 style="color:DodgerBlue;"> Dr. Isabel Mank, Facilitator </h4> 
+<!--<h4 style="color:DodgerBlue;"> Dr. Isabel Mank, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Mank.png" alt="Mank" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Evaluator, German Institute for Development Evaluation,
   Germany </span> <br> Visit <a href="https://www.deval.org/en/about-us/who-we-are/team/isabel-mank"><span style="text-align:center">Dr. Mank's website</span></a> for more information about her work. </p> <br>
 <br> 
@@ -105,7 +106,7 @@ Research Associate,<br> Department of Nutrition, Harvard T.H. Chan School of Pub
 
 <h4 style="color:DodgerBlue;"> Dr. Christin Zeitz, Facilitator </h4> 
 <p align="justify"> <img src="../figures/Zeitz.png" alt="Zeitz" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> Institute for Energy and Environmental Research (IFEU),
-  Germany </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/christin-zeitz/"><span style="text-align:center">Dr. Zeitz's website</span></a> for more information about her work. </p> <br>
+  Germany </span> <br> Visit <a href="https://www.ifeu.de/en/staff/detail/christin-zeitz/"><span style="text-align:center">Dr. Zeitz's website</span></a> for more information about her work. </p> <br> -->
 
 
 
