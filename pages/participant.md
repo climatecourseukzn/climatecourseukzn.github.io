@@ -2,7 +2,7 @@
 layout: page
 title: Participants 
 --- 
-
+<!--
 <h4 style="color:DodgerBlue;"> William Nelson Mwakalasya<br> Lecturer, Muhimbili University of Health and Allied Sciences, Tanzanian  </h4> 
 Email: <a href="mailto:wnmwakalasya@gmail.com">wnmwakalasya@gmail.com</a> <br>
 <p align="justify"> <img src="../figures/WilliamNelson.jpg" alt="WilliamNelson" style="float:left; width:120px; height:120px; padding: 10px;">  
@@ -158,4 +158,4 @@ Email: <a href="mailto:adedokunolufemi@gmail.com"> adedokunolufemi@gmail.com </a
 <p align="justify"> <img src="../figures/Olufemi.jpg" alt="Olufemi" style="float:left; width:120px; height:120px; padding: 10px;">   <span style="vertical-align:bottom"> Adedokun Olufemi is Food Scientist/Nutritionist with a PhD degree in Food Science and Technology. He is also a  registered Public Analyst with expertise in Food analysis. Olufemi is a Research Fellow at the University of Ibadan Research Foundation Ajibode, Ibadan. My research interests are New product development, Adolescent health and nutrition, Neglected Tropical Diseases, Climate change, and Data Science. </span> <br> 
  <b>Research Interest:</b> Food system; Adolescent health and nutrition; Climate change. </p> <br> 
 <br>
-<br>
+<br> -->
