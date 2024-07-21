@@ -190,7 +190,6 @@ title: Climate Change, Food Systems and Planetary Health
       2. Calculation of example a priori indices: GDQS </td>
     <td> Work on proposal/ Hackathon presentation  </td>
     <td>Reflection session with a course summary, key takeaways, and discussions on future research </td>
-    </tr>
     
   </tr>
   </table>
@@ -271,7 +270,6 @@ title: Climate Change, Food Systems and Planetary Health
     2. Group work: Trainees work on research </td>
     <td class="tg-0lax"> DSI Annual Symposium </td>
     <td class="tg-0lax">1. Post Knowledge Skills Test <br> 2. Closing Ceremony</td>
-  </tr>
   
   </tr>
 </table>
