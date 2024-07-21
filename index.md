@@ -202,33 +202,23 @@ title: Climate Change, Food Systems and Planetary Health
   </tr>
   <tr>
     <th><b> Time </b></th>
-    <th><b>Monday 17/07</b></th>
-    <th><b>Tuesday 18/07</b></th>
-    <th><b>Wednesday 19/07</b></th>
-    <th><b>Thursday 20/07</b></th>
-    <th><b>Friday 21/07</b></th>
+    <th><b>Monday 29/07</b></th>
+    <th><b>Tuesday 30/07</b></th>
+    <th><b>Wednesday 31/07</b></th>
+    <th><b>Thursday 01/08</b></th>
+    <th><b>Friday 02/08</b></th>
   </tr>
 
   <tr>
     <td class="tg-amwm">09:00-10:30 </td>
-    <td class="tg-0lax"> Methodological challenges-Identifying the impacts of climate change on dietary habits and nutritional status </td>
-    <td class="tg-0lax">Drive solutions for climate change adaptation-Examples of intervention project. <br> Practical example: MEGA in Dodoma </td>
-    <td class="tg-0lax"> Introduction to QGIS: <br>
-      -Installation of QGIS <br>
-      -Introduction to QGIS interface <br>
-      -Adding data to QGIS<br>
-      -Working with layers <br>
-      -Understanding coordinate reference systems QGIS Plugins
-</td>
-    <td class="tg-0lax"> -Creating Map outputs<br>
-     -Adding Layers <br>
-     -Styling Layers <br>
-     -Labelling <br>
-     -Creating Layouts <br>
-     -Map Elements <br>
-     -Exporting Maps <br>
-     -Best map layout Practices </td>
-    <td class="tg-0lax"> Supervised Classification Modelling Cont'd. </td>
+    <td class="tg-0lax"> 1. Opening remarks <br>
+2. Food Systems, Nutrition and Planetary Health - I: Descriptive Epidemiology </td>
+    <td class="tg-0lax"> 1. Food Systems, Nutrition and Planetary Health - II: Concepts and Associations  <br> 
+      2. Modelling associations between climate change, food systems and nutrition </td>
+    <td class="tg-0lax"> 1. Leveraging Lasso Regression for Crop Yield Modeling<br>
+      2. Lessons from the work in Burkina Faso </td>
+    <td class="tg-0lax"> Introduction to Vegetation Indices </td>
+    <td class="tg-0lax"> Trainees: Finalization of group work </td>
   </tr>
   <tr>
     <td class="tg-amwm">10:30 - 11:00 </td>
@@ -240,36 +230,30 @@ title: Climate Change, Food Systems and Planetary Health
   </tr>
   <tr>
     <td class="tg-amwm">11:00 - 12:30</td>
-    <td class="tg-0lax"> Methodological Solutions - Dimension reduction techniques to identify climate change impacts </td>
-    <td class="tg-0lax"> Practical Example: Linear optimization modelling for sustainable diets among Ghanaian migrants</td>
-    <td class="tg-0lax"> Spatial data entry and preparation <br> Georeferencing aerial imagery </td>
-    <td class="tg-0lax"> Handling remotely sensed data in QGIS: <br>
-    -Data acquisition <br>
-    -Data pre-processing <br>
-    -Importing remotely sensed data into QGIS <br>
-    -Image enhancement <br>
-    -Spatial analysis </td>
-    <td class="tg-0lax"> Introduction and Calculation of Vegetation Indices </td>
+    <td class="tg-0lax"> Theoretical concepts of operationalizing sustainable diets </td>
+    <td class="tg-0lax"> Practical examples of calculating GDQS and food systems variables using R </td>
+    <td class="tg-0lax"> Performing optimization modelling using Optimeal© or R software </td>
+    <td class="tg-0lax"> Computation of vegetation indices </td>
+    <td class="tg-0lax"> Group presentations and feedback sessions </td>
   </tr>
   <tr>
     <td class="tg-amwm">12:30 - 13:30</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
-    <td class="tg-0lax">Lunch</td>
+    <td class="tg-0lax">Lunch Break</td>
+    <td class="tg-0lax">Lunch Break </td>
+    <td class="tg-0lax">Lunch Break </td>
+    <td class="tg-0lax">Lunch Break </td>
+    <td class="tg-0lax">Lunch Break </td>
   </tr>
   <tr> 
-    <td class="tg-amwm">13:30 - 15:00</td>
-    <td class="tg-0lax"> Methodological Solutions- Machine learning approaches to identify climate change impacts </td>
-    <td class="tg-0lax"> Derive solutions for climate change mitigation - Optimization modelling and substitution approaches for sustainable diets. <br> 
-    Sustainable dietary weight loss approach </td>
-    <td class="tg-0lax"> Networking and transition to Symposium event </td>
-    <td class="tg-0lax">Unspervised Classification Modelling </td>
-    <td class="tg-0lax">Synthesis (recap) and Course Evaluation</td>
+    <td class="tg-amwm">13:30 - 14:45</td>
+    <td class="tg-0lax"> Calculating the Planetary Health Diet Index  </td>
+    <td class="tg-0lax"> Trainees practice computing descriptive variables on the available dataset </td>
+    <td class="tg-0lax"> Practical Session:  Heat2Harvest examines the interlinkages of climate change on human health, work capacity, agricultural outcomes, and nutritional status in children. </td>
+    <td class="tg-0lax">Symposium </td>
+    <td class="tg-0lax">Group presentations and feedback sessions </td>
   </tr>
   <tr>
-    <td class="tg-amwm">15:00 - 15:30</td>
+    <td class="tg-amwm">14:45 - 15:00</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
@@ -277,21 +261,16 @@ title: Climate Change, Food Systems and Planetary Health
     <td class="tg-0lax">Break</td>
   </tr>
   <tr> 
-    <td class="tg-amwm">15:30-16:15</td>
-    <td class="tg-0lax">Methodological Solutions- Down-scaled climate change impacts models</td>
-    <td class="tg-0lax"> Presentation of own research ideas and methodological challenges; selecting 4 project ideas to be worked on </td>
+    <td class="tg-amwm">15:00-16:30</td>
+    <td class="tg-0lax"> Trainees practice computing descriptive variables on the available dataset </td>
+    <td class="tg-0lax"> 1. Practical Session:  Calculating anthropometric indices using R  <br> 
+    2. Trainees go into groups and start thinking about analysis ideas </td>
+    <td class="tg-0lax"> 1. Machine Learning Methods <br>
+    2. Group work: Trainees work on research </td>
     <td class="tg-0lax"> DSI Annual Symposium </td>
-    <td class="tg-0lax"> Supervised Classification Modelling</td>
-    <td class="tg-0lax">Closing Ceremony</td>
+    <td class="tg-0lax">1. Post Knowledge Skills Test <br> 2. Closing Ceremony</td>
   </tr>
   
-  <tr> 
-    <td class="tg-amwm">16:15 - 17:00</td>
-    <td class="tg-0lax"> Methodological solutions – Down-scaled climate change impact models </td>
-    <td class="tg-0lax"> Tutored group work to derive methodological solutions for the 4 project ideas</td>
-    <td class="tg-0lax"> DSI Annual Symposium </td>
-    <td class="tg-0lax"> Supervised Classification Modelling </td>
-    <td class="tg-0lax">Closing Ceremony</td>
   </tr>
 </table>
 
