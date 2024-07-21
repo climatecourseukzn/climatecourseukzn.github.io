@@ -148,14 +148,14 @@ title: Climate Change, Food Systems and Planetary Health
     <td> 09:00 - 12:00</td>
     <td> 1. Welcome and Pre-knowledge skills test <br> 
        2. Exploratory spatial Analysis </td>
-    <td> 1. Group building activity for Hackathon</td>
+    <td> Group building activity for Hackathon</td>
     <td> Hackathon </td>
     <td>Technological Innovations in Sustainable Agriculture </td>
-    <td> Hackathon: Presentation </td>
+    <td> Hackathon Finalization for Presentation </td>
     
   </tr>
   <tr>
-    <td>10:30 - 11:00</td>
+    <td>12:00 - 13:00</td>
     <td>Break</td>
     <td>Break</td>
     <td>Break</td>
@@ -164,49 +164,32 @@ title: Climate Change, Food Systems and Planetary Health
     
   </tr>
   <tr>
-    <td>11:00 - 12:30</td>
-    <td> Practical: Using public databases for climate change and weather </td>
-    <td> Energy interactions with  objectives</td>
-    <td> Unsupervised Image Classification </td>
-    <td> Practical: Interpret country profiles of the Food Systems Dashboard </td>
-    <td>Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health</td>
+    <td>13:00 - 14:30</td>
+    <td> Model Evaluation and Validation </td>
+    <td> Theoretical concepts: climate change; impacts on diet and nutrition; sustainable diets. </td>
+    <td> Theoretical concepts of dietary pattern construction: exploratory, a priori, and hybrid methods </td>
+    <td> The Future of Food Systems in a Changing Climate, discussing emerging trends, future scenarios, and resilience planning  </td>
+    <td>Hackathon: Presentation Solutions and Ideas  </td>
     
   </tr>
   <tr>
-    <td>12:30 - 13:30</td>
-    <td>Lunch</td>
-    <td>Lunch</td>
-    <td>Lunch</td>
-    <td>Lunch</td>
-    <td>Lunch</td>
+    <td>14:30 - 15:00</td>
+    <td>Comfort Break</td>
+    <td>Comfort Break</td>
+    <td>Comfort Break</td>
+    <td>Comfort Break</td>
+    <td>Comfort Break</td>
     
   </tr>
   
   <tr>
-    <td>13:30 - 15:00</td>
-    <td>Introduction to concepts and indicators: Environmental footprints of foods </td>
-    <td> Sensors and Platforms </td>
-    <td> Supervised Image Classification </td>
-    <td> Introduction to concepts and indicators: Nutritional status and Dietary Behaviours </td>
-    <td>Reflection Groupwork: Formulate research question. <br> Deliverable: 1-page on background, specific aim, data needed, exposure or outcome.</td>
-    
-  </tr>
-  <tr>
-    <td>15:00 - 15:30</td>
-    <td>Break</td>
-    <td>Break</td>
-    <td>Break</td>
-    <td>Break</td>
-    <td>Break</td>
-    
-  </tr>
-  <tr>
-    <td>15:30 - 17:00</td>
-    <td>Practical: Using public databases for life-cycle assessment of foods </td>
-    <td> Resolutions in remote sensing </td>
-    <td>Supervised Image Classification (Cont'd)</td>
-    <td> Practical: How to compute overall diet quality indicators </td>
-    <td> Reflection Groupwork: Formulate research question. <br> Deliverable: 1-page on background, specific aim, data needed, exposure or outcome </td>
+    <td>15:00 - 17:00</td>
+    <td> Self reading materials </td>
+    <td> Theoretical constructs of nutrition and food systems </td>
+    <td> 1. Calculation of nutrition, dietary and food system metrics <br> 
+      2. Calculation of example a priori indices: GDQS </td>
+    <td> Work on proposal/ Hackathon presentation  </td>
+    <td>Reflection session with a course summary, key takeaways, and discussions on future research </td>
     
   </tr>
   </table>
