@@ -136,22 +136,22 @@ title: Climate Change, Food Systems and Planetary Health
   </tr>
   <tr>
     <th><b>Time</b></th>
-    <th><b>Monday 10/07</b></th>
-    <th><b>Tuesday 11/07</b></th>
-    <th><b>Wednesday 12/07</b></th>
-    <th><b>Thursday 13/07</b></th>
-    <th><b>Friday 14/07</b></th>
+    <th><b>Monday 22/07</b></th>
+    <th><b>Tuesday 23/07</b></th>
+    <th><b>Wednesday 24/07</b></th>
+    <th><b>Thursday 25/07</b></th>
+    <th><b>Friday 26/07</b></th>
    
   </tr>
 
   <tr>
-    <td> 09:00 - 10:30</td>
-    <td> 1.Welcome and overview of course <br> 
-       2.Introduction to concepts and indicators: Climate change and weather </td>
-    <td> Definition  and History of Remote Sensing </td>
-    <td> Satellite image pre-processing </td>
-    <td>Introduction to concepts and indicators: Food Systems </td>
-    <td> Self-Study: Massive Open Online Course on Research Methods for the study of Climate Change and Health </td>
+    <td> 09:00 - 12:00</td>
+    <td> 1. Welcome and Pre-knowledge skills test <br> 
+       2. Exploratory spatial Analysis </td>
+    <td> 1. Group building activity for Hackathon</td>
+    <td> Hackathon </td>
+    <td>Technological Innovations in Sustainable Agriculture </td>
+    <td> Hackathon: Presentation </td>
     
   </tr>
   <tr>
