@@ -132,7 +132,7 @@ title: Climate Change, Food Systems and Planetary Health
 
 <table id="inpersonw1">
   <tr>
-    <th colspan="7" style="background-color: #304C75;"><b><b><b><b>WEEK 1</b></b></b></b></th>
+    <th colspan="7" style="background-color: #304C75;"><b><b><b><b>WEEK 1: VIRTUAL </b></b></b></b></th>
   </tr>
   <tr>
     <th><b>Time</b></th>
@@ -198,7 +198,7 @@ title: Climate Change, Food Systems and Planetary Health
 
 <table id="inpersonw2">
   <tr>
-    <th colspan="6" style="background-color:#304C75;"><b><b><b><b>WEEK 2</b></b></b></b></th>
+    <th colspan="6" style="background-color:#304C75;"><b><b><b><b>WEEK 2: IN-PERSON </b></b></b></b></th>
   </tr>
   <tr>
     <th><b> Time </b></th>
@@ -249,7 +249,7 @@ title: Climate Change, Food Systems and Planetary Health
     <td class="tg-0lax"> Calculating the Planetary Health Diet Index  </td>
     <td class="tg-0lax"> Trainees practice computing descriptive variables on the available dataset </td>
     <td class="tg-0lax"> Practical Session:  Heat2Harvest examines the interlinkages of climate change on human health, work capacity, agricultural outcomes, and nutritional status in children. </td>
-    <td class="tg-0lax">Symposium </td>
+    <td class="tg-0lax"> DSI Annual Symposium </td>
     <td class="tg-0lax">Group presentations and feedback sessions </td>
   </tr>
   <tr>
