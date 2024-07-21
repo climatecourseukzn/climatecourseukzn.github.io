@@ -190,9 +190,11 @@ title: Climate Change, Food Systems and Planetary Health
       2. Calculation of example a priori indices: GDQS </td>
     <td> Work on proposal/ Hackathon presentation  </td>
     <td>Reflection session with a course summary, key takeaways, and discussions on future research </td>
+    </tr>
     
   </tr>
   </table>
+
 <br>
 
 
