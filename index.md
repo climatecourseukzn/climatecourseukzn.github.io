@@ -152,7 +152,6 @@ title: Climate Change, Food Systems and Planetary Health
     <td> Hackathon </td>
     <td>Technological Innovations in Sustainable Agriculture </td>
     <td> Hackathon Finalization for Presentation </td>
-    
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
@@ -261,6 +260,7 @@ title: Climate Change, Food Systems and Planetary Health
     <td class="tg-0lax">Break</td>
     <td class="tg-0lax">Break</td>
   </tr>
+  
   <tr> 
     <td class="tg-amwm">15:00-16:30</td>
     <td class="tg-0lax"> Trainees practice computing descriptive variables on the available dataset </td>
@@ -270,8 +270,8 @@ title: Climate Change, Food Systems and Planetary Health
     2. Group work: Trainees work on research </td>
     <td class="tg-0lax"> DSI Annual Symposium </td>
     <td class="tg-0lax">1. Post Knowledge Skills Test <br> 2. Closing Ceremony</td>
-  
   </tr>
+  
 </table>
 
 </body>
