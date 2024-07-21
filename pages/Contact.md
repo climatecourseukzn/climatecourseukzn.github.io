@@ -10,6 +10,7 @@ title: Contacts
 
 ##### DSI Postdocs:
 * Dr Gabriel Kallah-Dagadu - [KallahDagaduG@ukzn.ac.za](KallahDagaduG@ukzn.ac.za)
+* Dr. Mohanad Mohammed - [MohammedM1@ukzn.ac.za](MohammedM1@ukzn.ac.za)
 
 ## Admin: Centre for Rural Health Team
 * Bavashni Govender - [GovenderB@ukzn.ac.za](GovenderB@ukzn.ac.za)
