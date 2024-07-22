@@ -10,7 +10,7 @@ Below is the list of links to lecture notes, materials, and additional reference
 <h4> Day 1:</h4>
 <a href="https://climatecourseukzn.github.io/PDFLectures/Day1w1.zip" download> Exploratory spatial Analysis - Dr. Gabriel Kallah-Dagadu</a> <br>
 
-<!--<a href="https://climatecourseukzn.github.io/PDFLectures/Day1w1.zip" download> Exploratory spatial Analysis - Dr. Gabriel Kallah-Dagadu </a> <br>  -->
+<a href="https://climatecourseukzn.github.io/PDFLectures/bee1sub.csv" download> Dataset - Dr. Gabriel Kallah-Dagadu </a> <br>  
 
 <!-- <a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <be> -->
 
