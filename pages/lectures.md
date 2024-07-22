@@ -12,9 +12,12 @@ Below is the list of links to lecture notes, materials, and additional reference
 
 <a href="https://climatecourseukzn.github.io/PDFLectures/bee1sub.csv" download> Dataset - Dr. Gabriel Kallah-Dagadu </a> <br>  
 
-<!-- <a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <be> -->
-
 <a href="https://climatecourseukzn.github.io/PDFLectures/Literature_DSI2024.zip" download> Reading Materials </a> <br> 
+<a href="https://climatecourseukzn.github.io/PDFLectures/Sensors and Platforms.pptx" download> Remote Sensing Reading Materials 1 </a> <br> 
+
+<a href="https://climatecourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Remote Sensing Reading Materials 2 </a> <br> 
+<!-- <a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <br> -->
+
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_Base Carbone - données V18.1.xlsx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br> -->
 
