@@ -12,7 +12,7 @@ Below is the list of links to lecture notes, materials, and additional reference
 
 <a href="https://climatecourseukzn.github.io/PDFLectures/bee1sub.csv" download> Dataset - Dr. Gabriel Kallah-Dagadu </a> <br>  
 
-<a href="https://climatecourseukzn.github.io/PDFLectures/Literature_DSI2024.zip" download> Reading Materials </a> <br> 
+<a href="https://climatecourseukzn.github.io/PDFLectures/Literature_DSI2024.zip" download> Food Systems & Planetary Health Reading Materials </a> <br> 
 <a href="https://climatecourseukzn.github.io/PDFLectures/Sensors and Platforms.pptx" download> Remote Sensing Reading Materials 1 </a> <br> 
 
 <a href="https://climatecourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Remote Sensing Reading Materials 2 </a> <br> 
