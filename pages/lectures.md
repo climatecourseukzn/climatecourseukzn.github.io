@@ -18,9 +18,6 @@ Below are the links to lecture notes, materials, and additional reference materi
 <a href="https://climatecourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Remote Sensing Reading Materials 2 </a> <br> 
 <!-- <a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <br> -->
 
-
-<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Bernd Franke_Base Carbone - données V18.1.xlsx" download> Introduction to Concepts and Indicators: Environmental footprints of foods - Bernd Franke</a> <br> -->
-
 <a href="https://harvard.zoom.us/rec/share/qWuhyLzi_RCc-lMP95e7ekkIBbGTWo_PTJeZUv_BYieyiEIPY8-VyTr4uIenGN8u.dJR0olKVVElxnIZj" download > Video of Day 1 Sessions </a> <br> 
 
 
@@ -30,6 +27,8 @@ Below are the links to lecture notes, materials, and additional reference materi
 
  <a href="https://climatecourseukzn.github.io/PDFLectures/Hackathon_DesignAdaptationPackage-Ina.pptx" download> Hackathon Material</a> <br> 
 <a href="https://climatecourseukzn.github.io/PDFLectures/RRR_code.zip" download> RRR Code for Practicals </a> <br> 
+
+<a href="https://climatecourseukzn.github.io/PDFLectures/DSI Course Climate Change, Food SystemsIM.pptx" download> Theoretical constructs of nutrition and food systems - Prof. Isabel Madzorera</a> <br>
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Sensors and Platforms.pptx" download> Sensors and Platforms--Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br> -->
 
