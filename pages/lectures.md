@@ -26,7 +26,7 @@ Below are the links to lecture notes, materials, and additional reference materi
 
 <h4> Day 2: </h4>
 
-<!-- <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah.pdf" download> Climate change impacts on nutrition and diets --Prof. Ina Danquah</a> <br> -->
+<a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah.pdf" download> Climate change impacts on nutrition and diets --Prof. Ina Danquah</a> <br> 
 
  <a href="https://climatecourseukzn.github.io/PDFLectures/Hackathon_DesignAdaptationPackage-Ina.pptx" download> Hackathon Material</a> <br> 
 
