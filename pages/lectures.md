@@ -3,7 +3,7 @@ layout: page
 title: Lecture Materials
 ---
 
-Below is the list of links to lecture notes, materials, and additional reference materials. 
+Below is the links to lecture notes, materials, and additional reference materials. 
 
 
 <h3> Week 1 - Materials:</h3>
@@ -25,7 +25,8 @@ Below is the list of links to lecture notes, materials, and additional reference
 
 
 <h4> Day 2: </h4>
-<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/History of remote sensing.pptx" download> Definition and History of Remote Sensing--Dr. Trylee Matongera</a> <br> -->
+
+<!-- <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah.pdf" download> Climate change impacts on nutrition and diets --Prof. Ina Danquah</a> <br> -->
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Energy interaction.ppt" download> Energy interactions--Dr. Mthembeni Mngadi</a> <br> -->
 
