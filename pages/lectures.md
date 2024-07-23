@@ -28,7 +28,7 @@ Below are the links to lecture notes, materials, and additional reference materi
 
 <!-- <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah.pdf" download> Climate change impacts on nutrition and diets --Prof. Ina Danquah</a> <br> -->
 
-<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Energy interaction.ppt" download> Energy interactions--Dr. Mthembeni Mngadi</a> <br> -->
+ <a href="https://climatecourseukzn.github.io/PDFLectures/Hackathon_DesignAdaptationPackage-Ina.pptx" download> Hackathon Material</a> <br> 
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Sensors and Platforms.pptx" download> Sensors and Platforms--Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br> -->
 
