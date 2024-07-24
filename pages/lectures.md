@@ -38,7 +38,7 @@ Below are the links to lecture notes, materials, and additional reference materi
 
 <h4> Day 3:</h4>
  <a href="https://climatecourseukzn.github.io/PDFLectures/Hackathon_DesignAdaptationPackage-Ina.pptx" download> Hackathon Material</a> <br> 
-<a href="https://climatecourseukzn.github.io/PDFLectures/RRR_code.zip" download> RRR Code for Practicals </a> <br> 
+<a href="https://climatecourseukzn.github.io/PDFLectures/Anthropometery_code.zip" download> Anthropometery Codes and data for Practicals </a> <br> 
 
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Image pre-processing.ppt" download> Satellite Image Pre-processing--Dr. Mthembeni Mngadi</a> <br> -->
