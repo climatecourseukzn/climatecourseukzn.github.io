@@ -37,6 +37,10 @@ Below are the links to lecture notes, materials, and additional reference materi
 <a href="https://harvard.zoom.us/rec/share/KmeTax0HWQL-67XkjPZJQ7E5X7Hi8KJ2RENERd6XZnXJgQ2zTGuVGl7XVTigO1ET.i4LtcyMGJXD3xjuM?startTime=1721717715000" download> Video of Day 2 Sessions</a> <br> 
 
 <h4> Day 3:</h4>
+ <a href="https://climatecourseukzn.github.io/PDFLectures/Hackathon_DesignAdaptationPackage-Ina.pptx" download> Hackathon Material</a> <br> 
+<a href="https://climatecourseukzn.github.io/PDFLectures/RRR_code.zip" download> RRR Code for Practicals </a> <br> 
+
+
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Image pre-processing.ppt" download> Satellite Image Pre-processing--Dr. Mthembeni Mngadi</a> <br> -->
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Unsupervised Image Classification.pptx" download> Unspervised Image Classification --Dr. Mthembeni Mngadi</a> <br> -->
