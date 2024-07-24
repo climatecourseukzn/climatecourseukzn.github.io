@@ -34,7 +34,7 @@ Below are the links to lecture notes, materials, and additional reference materi
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Resolutions in Remote Sensing--Dr. Mthembeni Mngadi</a> <br> -->
 
-<!-- <a href="https://harvard.zoom.us/rec/share/f1sZ4k_M_gCGlLVaombSDKDsfxOyz0mDUpRy1bmWP0YYOFSjJ38H7RvhXIGQC5jH.XB8DZqdcLae0YZxX?startTime=1689057673000" download> Video of Day 2 Sessions</a> <br> -->
+<a href="https://harvard.zoom.us/rec/share/KmeTax0HWQL-67XkjPZJQ7E5X7Hi8KJ2RENERd6XZnXJgQ2zTGuVGl7XVTigO1ET.i4LtcyMGJXD3xjuM?startTime=1721717715000" download> Video of Day 2 Sessions</a> <br> 
 
 <h4> Day 3:</h4>
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Image pre-processing.ppt" download> Satellite Image Pre-processing--Dr. Mthembeni Mngadi</a> <br> -->
