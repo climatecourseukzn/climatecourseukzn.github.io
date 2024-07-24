@@ -40,7 +40,7 @@ Below are the links to lecture notes, materials, and additional reference materi
  <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah2.pdf" download> Theoretical concepts: Dietary pattern construction-- Prof. Ina Danquah </a> <br> 
 <a href="https://climatecourseukzn.github.io/PDFLectures/Anthropometery_code.zip" download> Anthropometery Codes and data for Practicals </a> <br> 
 
- <a href="https://climatecourseukzn.github.io/PDFLectures/Readings2.zip" download> Reading Materials</a> <br> 
+ <a href="https://climatecourseukzn.github.io/PDFLectures/Readings2.zip" download> Reading Materials 3</a> <br> 
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Image pre-processing.ppt" download> Satellite Image Pre-processing--Dr. Mthembeni Mngadi</a> <br> -->
 
