@@ -42,6 +42,8 @@ Below are the links to lecture notes, materials, and additional reference materi
 
  <a href="https://climatecourseukzn.github.io/PDFLectures/Readings2.zip" download> Reading Materials 3</a> <br> 
 
+<a href="https://harvard.zoom.us/rec/share/lPXJqCSfbALimas33Fizhy6th-q9Aqt2F8FJ5yWyCwOngJowQMO3MRSy1DqjQj20.Rnvv3X6aqZ_pWZb3?startTime=1721804105000" download> Video of Day 3 Sessions</a> <br> 
+
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Image pre-processing.ppt" download> Satellite Image Pre-processing--Dr. Mthembeni Mngadi</a> <br> -->
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Unsupervised Image Classification.pptx" download> Unspervised Image Classification --Dr. Mthembeni Mngadi</a> <br> -->
