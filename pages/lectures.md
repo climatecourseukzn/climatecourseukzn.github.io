@@ -53,8 +53,8 @@ Below are the links to lecture notes, materials, and additional reference materi
 
 
 <h4> Day 4:</h4>
-<a href="https://power.larc.nasa.gov/data-access-viewer/" download> NASA Power Website for Climate data 3</a> <br>
-<!-- <a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <br> -->
+<a href="https://power.larc.nasa.gov/data-access-viewer/" > NASA Power Website for Climate data </a> <br>
+<a href="https://climatecourseukzn.github.io/PDFLectures/Sandra_Materials_all.zip" download > Technological Innovations in Sustainable Agriculture - Dr. Sandra Barteit</a> <br> 
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Vorlesung_Food Systems July 2023.pdf" download> Introduction to Concepts and Indicators: Food Systems--Dr. Irmgard Jordan </a> <br>
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Nutritional status_Isabel.pptx" download> Introduction to Concepts and Indicators--Dr. Isabel Madzorera </a> <br>
