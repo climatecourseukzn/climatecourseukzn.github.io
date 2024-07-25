@@ -16,7 +16,6 @@ Below are the links to lecture notes, materials, and additional reference materi
 <a href="https://climatecourseukzn.github.io/PDFLectures/Sensors and Platforms.pptx" download> Remote Sensing Reading Materials 1 </a> <br> 
 
 <a href="https://climatecourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Remote Sensing Reading Materials 2 </a> <br> 
-<!-- <a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <br> -->
 
 <a href="https://harvard.zoom.us/rec/share/qWuhyLzi_RCc-lMP95e7ekkIBbGTWo_PTJeZUv_BYieyiEIPY8-VyTr4uIenGN8u.dJR0olKVVElxnIZj" download > Video of Day 1 Sessions </a> <br> 
 
@@ -54,9 +53,12 @@ Below are the links to lecture notes, materials, and additional reference materi
 
 
 <h4> Day 4:</h4>
+<a href="https://power.larc.nasa.gov/data-access-viewer/" download> NASA Power Website for Climate data 3</a> <br>
+<!-- <a href="https://www.cch-africa.de" > The website for the Research Unit on Climate Change and Health- Dr. Sandra Barteit</a> <br> -->
+
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Vorlesung_Food Systems July 2023.pdf" download> Introduction to Concepts and Indicators: Food Systems--Dr. Irmgard Jordan </a> <br>
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Nutritional status_Isabel.pptx" download> Introduction to Concepts and Indicators--Dr. Isabel Madzorera </a> <br>
-
+https://power.larc.nasa.gov/data-access-viewer/
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Sabri presentation.pptx" download> Introduction to Concepts and Indicators--Dr. Sabri Bromage</a> <br> -->
 
 
