@@ -17,7 +17,7 @@ Below are the links to lecture notes, materials, and additional reference materi
 
 <a href="https://climatecourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Remote Sensing Reading Materials 2 </a> <br> 
 
-<a href="https://harvard.zoom.us/rec/share/qWuhyLzi_RCc-lMP95e7ekkIBbGTWo_PTJeZUv_BYieyiEIPY8-VyTr4uIenGN8u.dJR0olKVVElxnIZj" download > Video of Day 1 Sessions </a> <br> 
+<a href="https://harvard.zoom.us/rec/share/LirE6LaXB7m_jD9L6Fcl2xom4Z3GNv40mT3vY7oRQJPiWeyOYmIrQPLrfiv5bUjw.pN0EmpJ13vN0KKsS" download > Video of Day 1 Sessions </a> <br> 
 
 
 <h4> Day 2: </h4>
@@ -33,7 +33,7 @@ Below are the links to lecture notes, materials, and additional reference materi
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Resolutions in remote sensing.ppt" download> Resolutions in Remote Sensing--Dr. Mthembeni Mngadi</a> <br> -->
 
-<a href="https://harvard.zoom.us/rec/share/KmeTax0HWQL-67XkjPZJQ7E5X7Hi8KJ2RENERd6XZnXJgQ2zTGuVGl7XVTigO1ET.i4LtcyMGJXD3xjuM?startTime=1721717715000" download> Video of Day 2 Sessions</a> <br> 
+<a href="https://harvard.zoom.us/rec/share/LirE6LaXB7m_jD9L6Fcl2xom4Z3GNv40mT3vY7oRQJPiWeyOYmIrQPLrfiv5bUjw.pN0EmpJ13vN0KKsS" download> Video of Day 2 Sessions</a> <br> 
 
 <h4> Day 3:</h4>
  <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah2.pdf" download> Theoretical concepts: Dietary pattern construction-- Prof. Ina Danquah </a> <br> 
@@ -41,7 +41,7 @@ Below are the links to lecture notes, materials, and additional reference materi
 
  <a href="https://climatecourseukzn.github.io/PDFLectures/Readings2.zip" download> Reading Materials 3</a> <br> 
 
-<a href="https://harvard.zoom.us/rec/share/lPXJqCSfbALimas33Fizhy6th-q9Aqt2F8FJ5yWyCwOngJowQMO3MRSy1DqjQj20.Rnvv3X6aqZ_pWZb3?startTime=1721804105000" download> Video of Day 3 Sessions</a> <br> 
+<a href="https://harvard.zoom.us/rec/share/rQE6nrp0YHNNWrtKGa5UgOPbyqxBwdHCp3-SxAPhixxMl_iP81iXVL49rdszql6D.7lTCLMT4nwtREaJu" download> Video of Day 3 Sessions</a> <br> 
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Image pre-processing.ppt" download> Satellite Image Pre-processing--Dr. Mthembeni Mngadi</a> <br> -->
 
@@ -56,14 +56,14 @@ Below are the links to lecture notes, materials, and additional reference materi
 <a href="https://power.larc.nasa.gov/data-access-viewer/" > NASA Power Website for Climate data </a> <br>
 <a href="https://climatecourseukzn.github.io/PDFLectures/Sandra_Materials_all.zip" download > Technological Innovations in Sustainable Agriculture - Dr. Sandra Barteit</a> <br> 
 
-<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Vorlesung_Food Systems July 2023.pdf" download> Introduction to Concepts and Indicators: Food Systems--Dr. Irmgard Jordan </a> <br>
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Nutritional status_Isabel.pptx" download> Introduction to Concepts and Indicators--Dr. Isabel Madzorera </a> <br>
+<a href="https://harvard.zoom.us/rec/share/k6bjcGKrPRADycSdaL-ujix334n2BmkmtSJ-0KdtNxamg8IMYoh642e5Uck-M_QA.yIb7bkJgilGFvTWe" download> Video of Day 4 Sessions </a> <br>
+<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Nutritional status_Isabel.pptx" download> Introduction to Concepts and Indicators--Dr. Isabel Madzorera </a> <br>
 https://power.larc.nasa.gov/data-access-viewer/
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Sabri presentation.pptx" download> Introduction to Concepts and Indicators--Dr. Sabri Bromage</a> <br> -->
 
 
 <h4> Day 5:</h4>
-<!-- <a href="https://drive.google.com/drive/folders/1l0IjCdawBRgJBDOvxofG0tL3MA0nNq4p" download> Downloadable Video for the Sessions</a> <br> -->
+<a href="https://harvard.zoom.us/rec/share/9yLL7sQjKV1jj4mKDzzmKvEhrZTJiq5c4ArKWFy6BLygTkA9ewJEn7u5ZxHs1dl8.ED6I41bytjWlI3X2" download> Video of Day 5 Sessions</a> <br> 
 
 <h3> Week 2 - Materials:</h3>
 <h4> Day 1:</h4>
