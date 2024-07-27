@@ -3,7 +3,7 @@ layout: page
 title: Lecture Materials
 ---
 
-Below are the links to lecture notes, materials, and additional reference materials. 
+Below are the links to lecture notes, materials, and additional reference materials. All the session videos are downloadable and will be available up to 31st December 2024.
 
 
 <h3> Week 1 - Materials:</h3>
