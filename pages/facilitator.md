@@ -41,9 +41,8 @@ Email: <a href="mailto:barteit@uni-heidelberg.de">barteit@uni-heidelberg.de</a> 
 <h4 style="color:DodgerBlue;"> Dr. Dadirai Matarira, Facilitator, Post-doctoral Researcher at the University of KwaZulu-Natal, South Africa</h4> 
 Email: <a href="mailto:dadimat19@gmail.com">dadimat19@gmail.com</a> <br>
 <p align="justify"> <img src="../figures/Dadirai.png" alt="Sandra" style="float:left; width:120px; height:120px; padding: 10px;">  
-  <span style="vertical-align:bottom"> Dr Dadirai Matarira is a post-doctoral researcher at the University of KwaZulu-Natal, South Africa, where she completed her Ph.D. in Environmental Science. She is an experienced Remote Sensing and Geospatial Analyst specializing in applying Earth Observation (EO) data in landscape modelling, particularly spatial data integration, pattern analysis, and visualization. Currently, she is working on remote sensing of urban vegetation, focusing on the impacts of degradation of such green spaces on exposure to climate change events such as floods and extreme heat. She is a keen researcher passionate about publishing, both individually and through collaborations. </p> <br> 
+  <span style="vertical-align:bottom"> Dr Dadirai Matarira is a post-doctoral researcher at the University of KwaZulu-Natal, South Africa, where she completed her Ph.D. in Environmental Science. She is an experienced Remote Sensing and Geospatial Analyst specializing in applying Earth Observation (EO) data in landscape modelling, particularly spatial data integration, pattern analysis, and visualization. Currently, she is working on remote sensing of urban vegetation, focusing on the impacts of degradation of such green spaces on exposure to climate change events such as floods and extreme heat. She is a keen researcher passionate about publishing, both individually and through collaborations.</span> </p> <br> 
 <br>
-
 <br>
 <br>
 <be>
