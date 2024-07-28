@@ -78,7 +78,7 @@ Research Associate,<br> Department of Nutrition, Harvard T.H. Chan School of Pub
 <br> -->
 
 <h4 style="color:DodgerBlue;"> Dr. Gabriel Kallah-Dagadu, Facilitator </h4> 
-<p align="justify"> <img src="../figures/Gabby.png" alt="Gabriel" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> WASHU Takwimu Postdoctoral Fellow,<br> University of KwaZulu-Natal. </span> </p> <br>
+<p align="justify"> <img src="../figures/Gabby.png" alt="Gabriel" style="float:left; width:120px; height:120px;padding: 10px;"><span style="vertical-align:bottom"> WASHU Takwimu Postdoctoral Fellow,<br> University of KwaZulu-Natal, South Africa. </span> </p> <br>
 <br>
 <br>
 <br>
