@@ -67,9 +67,9 @@ https://power.larc.nasa.gov/data-access-viewer/
 
 <h3> Week 2 - Materials:</h3>
 <h4> Day 1:</h4>
-<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Food Systems and the Environment Slides_July 17_Final.pdf" download> Derive Solutions for Climate Change Adaptation--Prof. Wafaie Fawzi </a> <br>
+ <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Durban_July2024_I_FINAL.pptx" download> Food Systems, Nutrition and Planetary Health - I:--Prof. Wafaie Fawzi </a> <br>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/ml_teaching_opata.pptx" download> ML Approaches to identify climate change impacts--Dr. Michael Opata</a> <br>
+<!--<a href="https://ccfscourseukzn.github.io/PDFLectures/ml_teaching_opata.pptx" download> ML Approaches to identify climate change impacts--Dr. Michael Opata</a> <br>
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Modelling_lecture_Fred.pdf" download> Down-scaled climate change impacts models--Dr. Fred Hattermann</a> <br> -->
 
 <h4> Day 2:</h4>
