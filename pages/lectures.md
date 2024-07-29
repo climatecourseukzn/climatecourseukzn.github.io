@@ -71,7 +71,7 @@ https://power.larc.nasa.gov/data-access-viewer/
 
 <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah_29.07.2024.pdf" download> Theoretical concepts of operationalizing sustainable diets--Prof. Ina Danquah</a> <br>
 
-<!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Modelling_lecture_Fred.pdf" download> Down-scaled climate change impacts models--Dr. Fred Hattermann</a> <br> -->
+<a href="https://climatecourseukzn.github.io/PDFLectures/Data_DSI_2024.zip" download> Data for Pratical</a> <br> 
 
 <h4> Day 2:</h4>
 
