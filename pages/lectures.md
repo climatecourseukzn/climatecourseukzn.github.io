@@ -69,8 +69,9 @@ https://power.larc.nasa.gov/data-access-viewer/
 <h4> Day 1:</h4>
  <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Durban_July2024_I_FINAL.pptx" download> Food Systems, Nutrition and Planetary Health - I:--Prof. Wafaie Fawzi </a> <br>
 
-<!--<a href="https://ccfscourseukzn.github.io/PDFLectures/ml_teaching_opata.pptx" download> ML Approaches to identify climate change impacts--Dr. Michael Opata</a> <br>
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Modelling_lecture_Fred.pdf" download> Down-scaled climate change impacts models--Dr. Fred Hattermann</a> <br> -->
+<a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah_29.07.2024.pdf" download> Theoretical concepts of operationalizing sustainable diets--Prof. Ina Danquah</a> <br>
+
+<!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Modelling_lecture_Fred.pdf" download> Down-scaled climate change impacts models--Dr. Fred Hattermann</a> <br> -->
 
 <h4> Day 2:</h4>
 
