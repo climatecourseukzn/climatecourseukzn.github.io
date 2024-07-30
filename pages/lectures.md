@@ -74,6 +74,7 @@ https://power.larc.nasa.gov/data-access-viewer/
 <a href="https://climatecourseukzn.github.io/PDFLectures/Data_DSI_2024.zip" download> Data for Pratical</a> <br> 
 
 <h4> Day 2:</h4>
+<a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Durban_July2024_II_Concepts and Associations.pdf" download> Food Systems, Nutrition and Planetary Health - II: Concepts and Associations--Prof. Wafaie Fawzi </a> <br>
 
 <!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Diet optimization.pdf" download> Linear Optimization of Diets--Dr. G. Kallah-Dagadu</a> <br>
 
