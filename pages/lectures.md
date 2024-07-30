@@ -67,7 +67,7 @@ https://power.larc.nasa.gov/data-access-viewer/
 
 <h3> Week 2 - Materials:</h3>
 <h4> Day 1:</h4>
- <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Durban_July2024_I_FINAL.pptx" download> Food Systems, Nutrition and Planetary Health - I:--Prof. Wafaie Fawzi </a> <br>
+ <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Durban_July2024_I_FINAL.pdf" download> Food Systems, Nutrition and Planetary Health - I:--Prof. Wafaie Fawzi </a> <br>
 
 <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah_29.07.2024.pdf" download> Theoretical concepts of operationalizing sustainable diets--Prof. Ina Danquah</a> <br>
 
