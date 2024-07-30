@@ -76,9 +76,9 @@ https://power.larc.nasa.gov/data-access-viewer/
 <h4> Day 2:</h4>
 <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Durban_July2024_II_Concepts and Associations.pdf" download> Food Systems, Nutrition and Planetary Health - II: Concepts and Associations--Prof. Wafaie Fawzi </a> <br>
 
-<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Diet optimization.pdf" download> Linear Optimization of Diets--Dr. G. Kallah-Dagadu</a> <br>
+<a href="https://climatecourseukzn.github.io/PDFLectures/GDQS Data.zip" download> GDQS Data and R codes--Prof. Isabel Madzorera </a> <br>
 
-<a href="https://ccfscourseukzn.github.io/PDFLectures/Overview_PotentialDietQualityIndicators_14.12.2022_revised.docx" download> Overview Potential Diet Quality Indicators--Prof. Ina Danquah</a> <br>
+<!-- <a href="https://ccfscourseukzn.github.io/PDFLectures/Overview_PotentialDietQualityIndicators_14.12.2022_revised.docx" download> Overview Potential Diet Quality Indicators--Prof. Ina Danquah</a> <br>
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/DSI_Durban_July2023_Mitigation_for_share.pdf" download> Derive solutions for climate change mitigation--Prof. Ina Danquah</a> <br>
 
