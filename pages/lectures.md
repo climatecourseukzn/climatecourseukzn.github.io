@@ -100,7 +100,8 @@ https://power.larc.nasa.gov/data-access-viewer/
 
 <h4> Day 3:</h4>
 <a href="https://climatecourseukzn.github.io/PDFLectures/Crop_Modelling.pdf" download> Leveraging Lasso Regression for Crop Yield Modelling-Dr. Sandra Barteit</a> <br>
-
+<a href="https://climatecourseukzn.github.io/PDFLectures/Optimization_modelling.pdf" download> Optimization Modelling for Sustainable Diets - Dr. Gabriel Kallah-Dagadu </a> <br>  
+<a href="https://climatecourseukzn.github.io/PDFLectures/Crop_Modelling.pdf" download> Leveraging Lasso Regression for Crop Yield Modelling-Dr. Sandra Barteit</a> <br>
 <!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 2 Manual.pdf" download> Practical 2 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 <a href="https://drive.google.com/drive/folders/1FyWbL_DrdCI1pgmGdXSOS9NQpuExtABE" download> Practical Materials-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>-->
 <h4> Day 4:</h4>
