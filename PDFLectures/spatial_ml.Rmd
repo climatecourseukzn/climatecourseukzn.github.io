@@ -1,0 +1,453 @@
+---
+title: "Spatial Machine Learning Models"
+author: "Gabriel Kallah-Dagadu"
+date: "2024-07-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Tree-based machine learning methods
+The section  will introduces tree-based machine learning methods, which are gradient based spatial predictive methods that use predictive variables.
+We will consider three tree-based machine learning methods, namely:
+(1) Classification and regression trees (CART),
+(2) Random forest (RF), and
+(3) Generalized boosted regression modeling (GBM).
+CART forms the foundation of RF and GBM, so we will begin with CART.  
+
+#### Classification and regression trees
+*Classification and regression trees* (CART), also known as decision trees, use binary recursive partitioning, whereby the data of response variable are successively split along the gradient of predictive variables into two *descendant* subsets (or nodes, leaves). These splits occur so that at any *node* the split is selected to maximize the difference between two split groups or branches (Breiman et al. 1984). Each predictive variable is assessed in turn, and the variable explaining the greatest amount of deviance in the response variable is selected at each node; and splitting continues until nodes are pure (i.e., no further deduction in the deviance) or the data are too sparse to allow further subdivision (Crawley 2007). If the
+response variable is a categorical variable, then we have a *classification tree*. 
+On the other hand, if the response variable is a numerical variable, then a regression tree is resulted (Crawley, 2007).  The averages of observations for a numerical variable or the (dominate) class for a categorical variable at the terminal nodes of the tree are the predictions of the tree. The observations that fall into the same terminal node will
+be assigned the same predictive value.
+
+Predictions of CART can be represented
+$$
+\hat y_{x_i}= \sum_{m=1}^{M}c_m I\{x_i \in N_m\}
+$$
+where $hat y_{x_i}$ is the predicted value of a response variable $y$ at the location of interest $(𝑖)$, $x_i$
+is $p$ predictive variables at location $i$ (i.e., $x_i = (x_{i1}, x_{i2}, \cdots, x_{ip})$), $c_m$ is a constant value
+at node $m$, and $N_m$ represents a node of the tree at node $m$.
+
+We will use both numerical data and categorical data to demonstrate the applications of CART for spatial predictive modeling. CART can automatically handle by non-linear relationships and interactions, so we only need to provide the predictive variables. 
+CART can be implemented in the function `rpart` in the `rpart` package (Therneau and Atkinson 2019) or the function `tree` in the `tree` package (Ripley 2019).
+
+#### Implementation of CART in the function rpart
+The predictions of CART can be generated with the function `rpart` in the `rpart` package. For CART using `rpart`, the following arguments may need to be specified:
+(1) formula, that defines response variable and predictive variables;
+(2) method, it is one of _"anova"_, _“poisson”_, _“class”_ or _“exp”_; if method is missing, then the routine tries to make an intelligent guess: if the response variable is a factor, then *method = “class”* is assumed, and if response variable is a numerical variable, *method = “anova”* is assumed; and
+(3) _cp_, complexity parameter; and any split that does not improve the fit by a _cp_ is not pursued.
+
+1. *Numerical data*
+The `sponge` point data set and `sponge.grid` grid data set in the `spm` package (Li 2019b) will be used to show the application of CART to numerical data.
+
+```{r}
+library(spm)
+data(sponge)
+data(sponge.grid)
+```
+
+To make the results reproducible, we need to use the function _set.seed_.
+```{r}
+library(rpart)# Loading rpart package
+set.seed (1234)
+rpart1 <- rpart(sponge ~ . , data=sponge , method = "anova", cp = 0.001)
+```
+
+We will use the function `printcp` in the `rpart` package to display the `cp` table for *rpart1* object as below.
+
+```{r}
+printcp(rpart1)
+```
+
+All the errors extracted are proportions of the *error* for the root tree; and the *xerror* and *xstd* are random and depending on the 10-fold cross-validation computed within the function
+`rpart`.
+The _xerror_ and _cp_ of *rpart1* for each tree size are shown below
+```{r, warning=FALSE}
+plotcp(rpart1)
+```
+
+The _cp_ may be chosen to minimize _xerror_ or by following _1SE_ (oen standard error) rule as shown by the horizontal
+dashed line in plot above, according to Venables and Ripley (2002). It shows that to minimize _xerror_, _cp_ value for pruning the tree *rpart1* should be 0.0774 or any other values below the dashed line.
+We will use the function `prune` in the `rpart` package to snip off the least important splits in *rpart1* based on _cp_ and to produce a trimmed tree model *rpart2*. Given the size of the tree is small, we choose a value of 0.01 to trim *rpart1*, which will lead to a tree with 4 splits and 5 leaves.
+
+```{r}
+rpart2 <- prune(rpart1 , cp = 0.01)
+rpart2
+```
+```{r}
+printcp(rpart2)
+```
+
+We will plot the _unpruned_ and _pruned_ trees for `sponge` data
+
+```{r, warning=FALSE}
+plot(rpart1)
+text(rpart1 , digits = 4, cex = 0.55, use.n = T)
+plot(rpart2)
+text(rpart2 , digits = 4, cex = 0.55, use.n = T)
+```
+The predictions of rpart tree models can be demonstrated with rpart2 as follows.
+
+```{r}
+rpart.pred <- predict(rpart2 , sponge.grid)
+range(rpart.pred) # Checking the properties of predictions
+```
+```{r}
+range(predict(rpart2 , sponge)) # the range of the fitted values
+```
+The spatial distribution of predictions of CART from *rpart2* can be illustrated as follows:
+
+```{r}
+library(sp)
+rpart.pred.df <- cbind(sponge.grid[, c(1:2)], as.data.frame(rpart.pred))# Creating a data frame of the predictions
+gridded(rpart.pred.df) = ~ easting + northing
+names(rpart.pred.df) <- "predictions"
+```
+
+Spatial patterns of predictions using CART from `rpart` is displayed below.
+```{r warning=FALSE}
+library(raster)
+plot(brick(rpart.pred.df))
+```
+
+2. *Categorical data*
+The _hard_ point data set in the `spm` package will be used to show the application of CART to categorical data.
+
+```{r}
+data(hard)
+set.seed (1234)
+rpart.h1 <- rpart(hardness ~ . , data=hard[, -1], method = "class", cp = 0.01)
+printcp(rpart.h1)
+```
+Given the size of the tree is small, we are not going to trim *rpart.h1*.
+```{r warning=FALSE}
+plotcp(rpart.h1)
+plot(rpart.h1)
+```
+
+
+The predictions of *rpart.h1* can be generated in the same way as for *rpart2* above.
+
+```{r}
+rpart.predh1 <- predict(rpart.h1 , hard[, -1])
+range(rpart.predh1) # Checking the properties of predictions
+```
+
+### Implementation of CART in the function tree
+The predictions of CART can also be generated using the function `tree`. The descriptions of
+relevant arguments of `tree` are detailed in its help file, which can be accessed by _?tree_. For
+`tree`, the argument, formula, that defines *response variable* and *predictive variables*, needs
+to be specified.
+
+1. *Numerical data*
+```{r}
+library(tree)
+tree1 <- tree(sponge ~ . , sponge)
+```
+We can use the function `cv.tree` (a cross-validation function for choosing tree complexity,
+with 10-fold as the default) in the `tree` package to snip off the least important splits in *tree1*
+based on `cp`.
+
+```{r}
+tree1.cv <- cv.tree(tree1 , , prune.tree)
+for (i in 2:20) tree1.cv$dev <- tree1.cv$dev + cv.tree(tree1 , , prune.tree)$dev
+tree1.cv$dev <- tree1.cv$dev / 20
+```
+
+```{r, warning=FALSE}
+plot(tree1.cv)
+```
+
+The function `prune.tree` in the `tree` package, which prunes a tree model by recursively “snipping”
+off the least important splits based on the cost-complexity, is used within `cv.tree`.
+
+The results suggest that the best size is 8 (plot above), that is, a tree with 8 nodes or leaves.
+We can now produce a pruned tree model, tree2, based on the best size identified.
+
+```{r, warning=FALSE}
+tree2 <- prune.tree(tree1 , best = 8)
+plot(tree1)
+text(tree1 , digits = 4, cex = 0.55)
+plot(tree2)
+text(tree2 , digits = 4, cex = 0.55)
+```
+
+The predictions of tree models can be demonstrated with *tree2* as follows
+```{r}
+tree.pred <- predict(tree2 , sponge.grid)
+range(tree.pred)
+range(predict(tree2)) # the range of the fitted values
+```
+
+2 *Categorical data*
+```{r}
+library(tree)
+tree.h1 <- tree(hardness ~ . , hard[, -1])
+```
+
+We can also use `prune.tree` to snip off the least important splits in *tree.h1* based on `cp`.
+
+```{r, warning=FALSE}
+set.seed (1234)
+tree.h1.cv <- cv.tree(tree.h1, , prune.tree)
+for (i in 2:20) tree.h1.cv$dev <- tree.h1.cv$dev + cv.tree(tree.h1, , prune.tree)$dev
+tree.h1.cv$dev <- tree.h1.cv$dev/20
+par(font.axis = 2, font.lab = 2)
+plot(tree.h1.cv)
+```
+
+The results suggest that the best size is 3 (plot). We can now produce a pruned tree model, tree.h2, based on the best size identified.
+
+```{r}
+tree.h2 <- prune.tree(tree.h1, best = 3)
+```
+
+The predictions of *tree.h2* can be generated in a similar way as for *tree2* in numerical data case and is left as an exercise. 
+
+### Random forest
+_Random forest_ (RF) is an ensemble method that combines many individual regression or
+classification trees. For each tree, a bootstrapped sample is drawn from the original sample,
+and at each split of the tree a portion of predictors is randomly drawn; and then an unpruned
+regression or classification tree (i.e., an RF tree) is fitted to the bootstrapped sample using
+the sampled predictors for each split. From the complete forest, the status of response
+variable is usually predicted as the average of the predictions of all RF trees for regression
+or as the classes with majority vote for classification (Breiman 2001). If a RF model is built
+with all predictive variables at each split, then this simply amounts to a bagging model
+(James et al. 2017). The mathematical representation can be found in (Hastie, Tibshirani, & Friedman, 2009).
+
+We use both numerical and categorical data to demonstrate the applications of RF for spatial predictive modeling. Similar to CART, RF can automatically handle non-linear relationships and interactions, so we only need to provide the predictive variables in the formula.
+RF can be implemented in the `randomForest` package (Liaw and Wiener 2002; Breiman et al. 2018) or the `ranger` package (Wright and Ziegler, 2017; Wright, Wager, and Probst, 2020). 
+
+#### Application of RF
+The predictions of RF can be generated with the function `randomForest` that implements Breiman’s random forest algorithm (Breiman 2001) for classification and regression. The descriptions of relevant arguments in randomForest are detailed in its help file, which can be accessed by _?randomForest_. For `randomForest`, the following arguments may need to be specified:
+(1) $x$, formula, a dataframe or a matrix of predictive variables, or a formula defining response
+variable and predictive variables;
+(2) $y$, a vector of the response variable if $x$ is provided;
+(3) `ntree`, the number of trees to grow;
+(4) `mtry`, the number of variables randomly sampled as candidates at each split; and
+(5) `importance`, importance of predictive variables be assessed or not.
+
+1. *Application of the function randomForest to numerical data*
+The sponge2 point data set in the `spm2` package (Li 2021a) and the `sponge.grid` grid data set in the `spm` package will be used to demonstrate the application of RF to numerical data.
+
+```{r}
+library(spm2)
+library(randomForest)
+data(sponge2)
+```
+
+```{r}
+head(sponge2)
+```
+
+
+```{r}
+set.seed (1234)
+rf1 <- randomForest(sponge2[, -c(3:4)], sponge2[, 3], ntree = 500, importance=TRUE)
+```
+
+Here we use the default value for `mtry`. If `mrty` is specified as *dim(sponge2[, -c(3:4)])[1]*, that
+is, all variables are used for `mtry`, then a bagging method is used. The importance of each
+variable is plotted below using `varImpPlot` function.
+
+
+```{r, warning=FALSE}
+varImpPlot(rf1 , cex = 0.6)
+```
+
+The fitted values by *rf1* can be generated with predict as:
+```{r}
+rf1.pred <- predict(rf1 , sponge2[, - c(3, 4)])
+range(rf1.pred)
+range(sponge2$species.richness)
+```
+The plot of the fitted values against the observed values is shown as
+
+```{r, warning=FALSE}
+plot(sponge2$species.richness , rf1.pred , xlab = "Observed values", ylab = "Fitted values")
+lines(sponge2$species.richness , sponge2$species.richness , col = "blue")
+```
+
+2 *Application of the function randomForest to categorical data*
+The hard point data set will be used to show the application of RF to categorical data as follows.
+```{r}
+library(spm)
+data(hard)
+set.seed (1234)
+rf.h1 <- randomForest(hard[, -c(1, 17)], hard[, 17], ntree = 500, importance=TRUE)
+```
+
+```{r, warning=FALSE}
+varImpPlot(rf.h1, cex = 0.8)
+```
+
+The fitted values by *rf.h1* are generated using predict and compared with the observed values below.
+```{r}
+rf.h1.pred <- predict(rf.h1, hard[, -c(1, 17)])
+table(hard$hardness , rf.h1.pred)
+```
+The predictions of *rf.h1* are exactly the same as the observations. The predictions of _rf.h1_ can be generated in the same way as above using predict and replacing hard[, -c(1, 17)] with a relevant data set (if our data is split as training and test sets).
+
+### Variable selection for RF
+We can use variable selection techniques to simplify RF models such as rf1. Several variable
+selection techniques have been developed for RF (Li 2019a), and relevant functions are available in R, including:
+(1) function `Boruta` in the `Boruta` package (Kursa and Rudnicki 2010, 2020);
+(2) function `VSURF` in the `VSURF` package (Genuer, Poggi, and Tuleau-Malot 2019);
+(3) function `rfe` in the `caret` package (Kuhn 2020);
+(4) function `steprfAVI` in the `steprf` package (Li 2021c);
+(5) function `steprfAVI1` in the `steprf` package;
+(6) function `steprfAVI2` in the `steprf` package;
+(7) function `steprf` with method = "AVI" in the `steprf` package;
+(8) function `steprf` with method = "KIAVI" in the `steprf` package; and
+(9) function `steprf` with method = "KIAVI2" in the `steprf` package.
+
+We can search and select the most important predictors using these variable selection methods.
+We will apply these variable selection methods to sponge data as an example for numerical
+data and to hard data as an example for categorical data.
+
+1. *Implementation in Boruta*
+The function `Boruta` is a feature selection function with the `Boruta` algorithm that is an all
+relevant variable selection wrapper algorithm for any classification and regression methods that output variable importance; and by default, it uses RF.
+For `Boruta`, the following arguments may need to be specified:
+(1) `formula`, describing model to be analyzed;
+(2) `data`, dataframe of response and predictive variable;
+(3) `doTrace`, verbosity level; with 0 meaning no tracing; and
+(4) `maxRuns`, maximal number of importance source runs.
+
+```{r, warning=FALSE}
+#Numerical Data
+library(Boruta)
+sponge.bor <- Boruta(species.richness ~., data = sponge2[, -4], doTrace = 0, maxRuns = 5000)
+```
+
+```{r}
+# variables selected 
+names(sponge2[, getSelectedAttributes(sponge.bor)])
+```
+The variables selected can now be used to develop a RF model as follows.
+```{r}
+set.seed (1234)
+rf.bor1 <- randomForest(sponge2[, getSelectedAttributes(sponge.bor)], sponge2[,
+3], ntree = 500, importance=TRUE)
+```
+
+```{r}
+#Categorical data
+hard.bor <- Boruta(hardness ~., data = hard[, -1], doTrace = 0, maxRuns = 5000)
+hard.bor
+```
+```{r}
+# variables selected 
+names(hard[, -c(1, 17)][, getSelectedAttributes(hard.bor)])
+```
+The variables selected can now be used to develop a RF model for hard data.
+
+2. *Implementation in rfe*
+The function `rfe` implements backwards selection or recursive feature elimination (RFE) algorithm based on the importance ranking of predictive variables, with the less important ones sequentially eliminated. For `rfe`, the following arguments may need to be specified:
+(1) $x$, a dataframe of predictive variables;
+(2) $y$, a vector of response variable;
+(3) `sizes`, the number of features that should be retained;
+(4) `metric`, an accuracy metric to be used to select the optimal model; and
+(5) `rfeControl`, a list of options, including functions for fitting and prediction; and for details
+see *?rfe*.
+
+```{r}
+#Numerical data
+library(caret)
+set.seed (1234)
+rfProfile <- rfe(sponge2[, -c(3:4)], sponge2[, 3], sizes = c(4:10, 15), metric = "RMSE", rfeControl = rfeControl(functions = rfFuncs , rerank = TRUE , method = "repeatedcv", repeats = 20, verbose = FALSE))
+rfProfile
+```
+
+The top 5 variables (out of 79):
+`easting` , `northing` , `tpi3` , `tpi5` , `bathy`
+```{r}
+rfProfile$bestSubset
+rfProfile$optsize
+rfProfile$optVariables
+```
+It suggests that all 79 variables are selected by `rfe`.
+
+```{r}
+#Categorical data
+library(caret)
+set.seed (1234)
+rfe.h1 <- rfe(hard[, -c(31, 17)], hard[, 17], sizes = c(4:10, 15), rfeControl = rfeControl(functions = rfFuncs , rerank = TRUE , method = "repeatedcv", repeats = 20, verbose = FALSE))
+rfe.h1
+```
+
+The top 5 variables (out of 8):
+prock , bs, bathy , bs.moran , homogeneity
+```{r}
+rfe.h1$bestSubset
+rfe.h1$optsize
+rfe.h1$optVariables
+```
+It suggests that 8 variables are selected by `rfe`.
+
+### Accuracy of the RF model by `Boruta`
+Numerical Data
+```{r}
+library(Boruta)
+set.seed (1234)
+n <- 100
+VEcv.b <- NULL
+for (i in 1:n) {
+rfcv1 <- RFcv(sponge2[, getSelectedAttributes(sponge.bor)], sponge2[, 3], predacc = "VEcv") 
+VEcv.b[i] <- rfcv1
+}
+```
+
+The median and range of the predictive accuracy of the RF model by `Boruta` based on 100 repetitions of 10-fold cross-validation using `RFcv` are
+```{r}
+median(VEcv.b)
+range(VEcv.b)
+```
+
+We will demonstrate the application of `rfpred` to the `sponge` and `sponge.grid` data sets as
+follows.
+```{r}
+library(randomForest)
+names(sponge)
+names(sponge.grid)
+set.seed (1234)
+rfpred1 <- rfpred(sponge[, -c(3)], sponge[, 3], sponge.grid[, c(1,2)], sponge.grid
+, ntree = 500)
+```
+
+The spatial distribution of predictions of RF
+```{r, warning=FALSE}
+library(sp)
+library(raster)
+rf.pred.df <- rfpred1
+gridded(rf.pred.df) = ~ LON + LAT
+plot(brick(rf.pred.df))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
