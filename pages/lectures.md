@@ -103,7 +103,7 @@ https://power.larc.nasa.gov/data-access-viewer/
 <a href="https://climatecourseukzn.github.io/PDFLectures/Optimization_modelling.pdf" download> Optimization Modelling for Sustainable Diets - Dr. Gabriel Kallah-Dagadu </a> <br>  
 <a href="https://climatecourseukzn.github.io/PDFLectures/Heat2Harvest-Sandra.pdf" download> Heat2Harvest-Dr. Sandra Barteit</a> <br>
 <a href="https://climatecourseukzn.github.io/PDFLectures/spatial_ml.Rmd" download> Spatial Machine Learning Methods - Dr. Gabriel Kallah-Dagadu </a> <br> 
-PDFLectures/
+
 <!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 2 Manual.pdf" download> Practical 2 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 <a href="https://drive.google.com/drive/folders/1FyWbL_DrdCI1pgmGdXSOS9NQpuExtABE" download> Practical Materials-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>-->
 <h4> Day 4:</h4>
