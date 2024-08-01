@@ -107,6 +107,10 @@ https://power.larc.nasa.gov/data-access-viewer/
 <!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 2 Manual.pdf" download> Practical 2 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 <a href="https://drive.google.com/drive/folders/1FyWbL_DrdCI1pgmGdXSOS9NQpuExtABE" download> Practical Materials-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>-->
 <h4> Day 4:</h4>
+<a href="https://climatecourseukzn.github.io/PDFLectures/Crop_Modelling.pdf" download> Remote Sensing and Vegetation Indicies-Dr. Dadirai Matarira</a> <br>
+<a href=" https://code.earthengine.google.com/9b270b88883ecf387f9cd888c73f220f" > Google Earth Engine- Practical Demonstration-Dr. Dadirai Matarira</a> <br>
+ https://code.earthengine.google.com/9b270b88883ecf387f9cd888c73f220f
+
 <h4> Day 5:</h4>
 <!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Supervised Classification (1).docx" download> Practical 3 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br> -->
 
