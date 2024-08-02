@@ -16,4 +16,6 @@ title: Course Evaluation
 <!--
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2c2Cb9LS5C2ETqS7Pnahv5IkjOEgFVTC1pf9EaWItetBb4Q/viewform?usp=sf_link" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading… </iframe> -->
 
-<iframe src="https://forms.gle/sj7c4dyb1B6sU27W8">Loading… </iframe>
+
+
+<iframe src="https://forms.gle/sj7c4dyb1B6sU27W8" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading… </iframe>
