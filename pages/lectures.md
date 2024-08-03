@@ -111,6 +111,7 @@ https://power.larc.nasa.gov/data-access-viewer/
 <a href="https://climatecourseukzn.github.io/PDFLectures/Remote sensing _Vegetation indices.pdf" download> Remote Sensing and Vegetation Indices-Dr. Dadirai Matarira</a> <br>
 <a href="https://code.earthengine.google.com/9b270b88883ecf387f9cd888c73f220f" > Google Earth Engine- Practical Demonstration-Dr. Dadirai Matarira</a> <br>
 
+<a href="https://zoom.us/rec/play/r7NIhbZjSUUApsEO3rqNFx9Sw2Sgq7oUBVU78KDgrqKw-wc1prTjYV5wm9CoAjOTyhQo5D6g8myHJpkM.E7yUrACfUc_GJg-u?canPlayFromShare=true&from=share_recording_detail&continueMode=true&iet=ivUqpH8d1R0Sok2agsHsHXt3l9mnAS1Rm12OhiJmOwA.AG.9sUDhW0sms-Ec7OKCaQfM9rf6M4dx7tv3YS_Bm0YOaRzAAlT17zWrMmWNeF5TM9AkeW-BAiiiWk_Xx-dfECI_YGgKJIR_ASbcdIJ0aRQ5k4IRYmrSvhsIdYOBo_nzOY.avu52BakFpCHQ5Ty0ur1vg.SPkusaSLvAjE7FpO&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FmOEnK2GgGwT8ROpntlYJTnuSiME7AoS7KgawVMBTJpcQzOIlj9w-N8bTKg6lCOWh.wgLdBKwuA4tLbBNi%3Fiet%3DivUqpH8d1R0Sok2agsHsHXt3l9mnAS1Rm12OhiJmOwA.AG.9sUDhW0sms-Ec7OKCaQfM9rf6M4dx7tv3YS_Bm0YOaRzAAlT17zWrMmWNeF5TM9AkeW-BAiiiWk_Xx-dfECI_YGgKJIR_ASbcdIJ0aRQ5k4IRYmrSvhsIdYOBo_nzOY.avu52BakFpCHQ5Ty0ur1vg.SPkusaSLvAjE7FpO" download> Video of Day 4 Sessions;Passcode: dNC1%HuA </a> <br> 
 
 <h4> Day 5:</h4>
 <!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Supervised Classification (1).docx" download> Practical 3 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br> -->
