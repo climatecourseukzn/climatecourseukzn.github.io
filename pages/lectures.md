@@ -72,7 +72,7 @@ https://power.larc.nasa.gov/data-access-viewer/
 <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah_29.07.2024.pdf" download> Theoretical concepts of operationalizing sustainable diets--Prof. Ina Danquah</a> <br>
 <a href="https://climatecourseukzn.github.io/PDFLectures/Data_DSI_2024.zip" download> Data for Pratical</a> <br> 
 
-<a href="https://zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=gjW4WmAYTcw-3uHT_WJWwx8_uLdMn1laT7PAy7FmUVJGn9tin-HXXt2cQMUL0FQ.XvsJ1mq3BbH61Itc&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FR81wG_xydyFzy1Wmjg3Su-ztfbOqEjYrsJNIcD0weuEbJn77eIWjDg6pFdrlGMY.B6zfdAt3ZS6LKSUF%3Fiet%3DBUZLoNewGixVs2_rzmLJiKyVHPaHyj8EAOyqKlyIRc4.AG.CekigSHvEMF4oYdsfjV2mRhsNTMNfuFkN0geHkCuNhZYZsd_zoRnlus_GfiSOvvcfV2mV9L6Bvgj4djYkrWXxNE_NvesbIagv0HKXEO0BvdIrx6E_K1LqkMb7Qg5Atw.jxu4R_XQQNrWL5zI1JP_Gg.EUqiZXbgirOlHQD9" download> Video of Day 5 Sessions: Passcode: *^PBF?4S </a> <br> 
+<a href="https://zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=gjW4WmAYTcw-3uHT_WJWwx8_uLdMn1laT7PAy7FmUVJGn9tin-HXXt2cQMUL0FQ.XvsJ1mq3BbH61Itc&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FR81wG_xydyFzy1Wmjg3Su-ztfbOqEjYrsJNIcD0weuEbJn77eIWjDg6pFdrlGMY.B6zfdAt3ZS6LKSUF%3Fiet%3DBUZLoNewGixVs2_rzmLJiKyVHPaHyj8EAOyqKlyIRc4.AG.CekigSHvEMF4oYdsfjV2mRhsNTMNfuFkN0geHkCuNhZYZsd_zoRnlus_GfiSOvvcfV2mV9L6Bvgj4djYkrWXxNE_NvesbIagv0HKXEO0BvdIrx6E_K1LqkMb7Qg5Atw.jxu4R_XQQNrWL5zI1JP_Gg.EUqiZXbgirOlHQD9" download> Video of Day 1 Sessions: Passcode: *^PBF?4S </a> <br> 
 
 
 <h4> Day 2:</h4>
@@ -99,6 +99,7 @@ https://power.larc.nasa.gov/data-access-viewer/
 
 <a href="https://ccfscourseukzn.github.io/PDFLectures/Willett_Lancet_2019.pdf" download> Literature-Prof. Ina Danquah</a> <br> -->
 
+<a href="https://zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=pfygLVQlUy6hrEOaK3hpaMhmoQY8alovQPMlva1Q-myyTv4g9FamGDaCKPS-7gZx.7r0sNZIOpNEE0_Uq&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FFii91lqcMwsYekQMH8QClMUOSUTW3K8YbZw7XFm23MrW_Ei5SozOwbm4cz5rvCqw.ePMJNTq8DigInuCS%3Fiet%3DCd15Nu1qZ98TUGxsYloZ3s8PqavH5ySmwODEfFsQg7U.AG.iYY21x-7q1JwnubrZnH5g4kM_yzXH1NX-Vc2uLFT601aFeS1zjZSy5z1SrMt8Xufvl-uobOS_n_RGC81yvGfHnm_0BtzjM9ryzFhRo8xXoKrMKCdk3e0Px4Feix83co.08vrS8NQhblRWy2ZUkFsgg.35AkT-Unbg38GYtD" download> Video of Day 2 Sessions: Passcode: wEvO8+5j </a> <br> 
 
 <h4> Day 3:</h4>
 <a href="https://climatecourseukzn.github.io/PDFLectures/Crop_Modelling.pdf" download> Leveraging Lasso Regression for Crop Yield Modelling-Dr. Sandra Barteit</a> <br>
@@ -108,6 +109,8 @@ https://power.larc.nasa.gov/data-access-viewer/
 
 <!--<a href="https://ccfscourseukzn.github.io/PDFLectures/Practical 2 Manual.pdf" download> Practical 2 Manual-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>
 <a href="https://drive.google.com/drive/folders/1FyWbL_DrdCI1pgmGdXSOS9NQpuExtABE" download> Practical Materials-Dr. Trylee Matongera and Dr. Mthembeni Mngadi </a> <br>-->
+
+<a href="https://zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=6wFn_DPIgBcDfcE7TH_AFpdcsHZm0m_QkGKYW-_Ex6SwQeaUIzystkwod8XhGfOf.0a4lgeaD3PCzS1ox&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2Fveku0kW3TVBiRuIQAP8A7UNm4osYC2_LfkYeAhuBOT8mTiTY65VYXHUfv7amtFG-.Y3a7Qm9uNSC4R_rQ%3Fiet%3DFwV3sJjJ5I9MFv4fRBG_q33KDCdA1TfEFvpuX2JRrSs.AG.bwYeWWGMuBCNpmWBXb4gVc5Tk7xO9X3fPxBK6WHE_axxSWk0ye77JljBUaWuyxZmuw8rSxqI11VLaTYCmEtfu-ZDJjzH1LT6UQCzpqk03DrdQdrtHtUTZD-YX6iTSXg.bGbvTG8LKTN5S72QthkxxA.p36YrLMzgfiCg8Yw" download> Video of Day 3 Sessions: Passcode: 3#UfT5?T </a> <br> 
 
 <h4> Day 4:</h4>
 <a href="https://climatecourseukzn.github.io/PDFLectures/Remote sensing _Vegetation indices.pdf" download> Remote Sensing and Vegetation Indices-Dr. Dadirai Matarira</a> <br>
