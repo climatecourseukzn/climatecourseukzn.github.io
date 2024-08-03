@@ -70,8 +70,10 @@ https://power.larc.nasa.gov/data-access-viewer/
  <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Durban_July2024_I_FINAL.pdf" download> Food Systems, Nutrition and Planetary Health - I:--Prof. Wafaie Fawzi </a> <br>
 
 <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Course2024_Danquah_29.07.2024.pdf" download> Theoretical concepts of operationalizing sustainable diets--Prof. Ina Danquah</a> <br>
-
 <a href="https://climatecourseukzn.github.io/PDFLectures/Data_DSI_2024.zip" download> Data for Pratical</a> <br> 
+
+<a href="https://zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=gjW4WmAYTcw-3uHT_WJWwx8_uLdMn1laT7PAy7FmUVJGn9tin-HXXt2cQMUL0FQ.XvsJ1mq3BbH61Itc&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FR81wG_xydyFzy1Wmjg3Su-ztfbOqEjYrsJNIcD0weuEbJn77eIWjDg6pFdrlGMY.B6zfdAt3ZS6LKSUF%3Fiet%3DBUZLoNewGixVs2_rzmLJiKyVHPaHyj8EAOyqKlyIRc4.AG.CekigSHvEMF4oYdsfjV2mRhsNTMNfuFkN0geHkCuNhZYZsd_zoRnlus_GfiSOvvcfV2mV9L6Bvgj4djYkrWXxNE_NvesbIagv0HKXEO0BvdIrx6E_K1LqkMb7Qg5Atw.jxu4R_XQQNrWL5zI1JP_Gg.EUqiZXbgirOlHQD9" download> Video of Day 5 Sessions: Passcode: *^PBF?4S </a> <br> 
+
 
 <h4> Day 2:</h4>
 <a href="https://climatecourseukzn.github.io/PDFLectures/DSI_Durban_July2024_II_Concepts and Associations.pdf" download> Food Systems, Nutrition and Planetary Health - II: Concepts and Associations--Prof. Wafaie Fawzi </a> <br>
